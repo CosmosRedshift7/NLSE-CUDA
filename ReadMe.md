@@ -12,11 +12,6 @@ Ilya Kuk
 `./NLSE.exe 8 8192 0.5 0.05 10 100 0.1`
 
 
-## Split-step method
-
-![](./images/spst.png)
-
-
 
 ## Plots
 
