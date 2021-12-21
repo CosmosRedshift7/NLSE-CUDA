@@ -1,10 +1,10 @@
 # Solution of the nonlinear Schrödinger equation using cuFFT
-High Performance Computing and Modern Architectures course
-Final project
-Ilya Kuk
+High Performance Computing and Modern Architectures course  
+Final project  
+Ilya Kuk  
 
 ## Prerequisites:
-Make 'bulid' and 'results' folders in working dirrectory:
+Make `bulid` and `results` folders in working dirrectory:
 ```shell
 mkdir build results
 ```
